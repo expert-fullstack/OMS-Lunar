@@ -7,6 +7,7 @@
     "require": {
         "php": "^8.1",
         "armezit/lunarphp-purchase-limit": "^0.8.3",
+        "armezit/lunarphp-virtual-product": "^0.4.1",
         "guzzlehttp/guzzle": "^7.2",
         "laravel/framework": "^10.10",
         "laravel/sanctum": "^3.3",
